@@ -1,6 +1,7 @@
 # RussCalculus
 
 RussCalculus is a simple calculator web application with a built-in dark mode feature. It allows users to perform basic arithmetic operations such as addition, subtraction, multiplication, and division.
+[View Demo](https://russellshanenavarez.github.io/RussCalculus_Navarez/)
 
 ## Features
 
